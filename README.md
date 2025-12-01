@@ -38,3 +38,7 @@ tests/
 docker-compose.yml
 README.md
 LICENSE
+## ▶ How to Run (Docker)
+
+```bash
+docker-compose up --build
