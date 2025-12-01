@@ -1,7 +1,5 @@
 {
-  "age": 20,
-  "weight": 65,
-  "height": 170,
-  "goal": "Lose fat and build muscle"
+  "diet": "High-protein plan",
+  "workout": "3 days strength + 2 days cardio",
+  "sleep": "7-8 hours recommended"
 }
-
