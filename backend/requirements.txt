@@ -1,4 +1,10 @@
 fastapi
-uvicorn
+uvicorn[standard]
 pydantic
-
+python-multipart
+# ADD THESE:
+openai
+langchain-core
+langchain-community
+# Optional but good:
+python-dotenv
