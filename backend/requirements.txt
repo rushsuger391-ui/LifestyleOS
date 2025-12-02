@@ -8,3 +8,4 @@ langchain-core
 langchain-community
 # Optional but good:
 python-dotenv
+pip install -r backend/requirements.txt
